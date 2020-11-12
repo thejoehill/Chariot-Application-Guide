@@ -1,2 +1,1 @@
-# Chariot-Application-Guide
-User manual
+This is the user manual.

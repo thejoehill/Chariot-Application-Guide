@@ -38,12 +38,12 @@ You have 6 H1 headings. You may want to use the "H1 -> H2" option to demote all 
 <a href="#gdcalert6">alert6</a>
 
 <p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
+<center>
+<br><br><br><br><br><br>
+<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/Artboard%206.png?raw=true" alt="Chariot" width=75%/>
+<br><br><br><br><br><br>
 
 # Application Manual
-
-
 
 
 **Version 1.0**
@@ -51,20 +51,89 @@ You have 6 H1 headings. You may want to use the "H1 -> H2" option to demote all 
 
 
 
-
 October 2020
+
+<br><br><br><br><br><br>
+
+
+
 
 
 
 
 
 # Table Of Contents
+</center>
 
-
-[TOC]
-
-
-
+<!-- TOC START min:1 max:3 link:true asterisk:false update:true -->
+- [Application Manual](#application-manual)
+- [Table Of Contents](#table-of-contents)
+- [Getting Started](#getting-started)
+  - [System Requirements](#system-requirements)
+  - [Browser Compatibility](#browser-compatibility)
+  - [## Accessing Chariot®](#-accessing-chariot)
+  - [## IT Network Information](#-it-network-information)
+    - [Frequently Asked Questions (‘FAQ’)](#frequently-asked-questions-faq)
+    - [Application Architecture](#application-architecture)
+- [User Manual](#user-manual)
+  - [General Information](#general-information)
+    - [About FSG Smart Buildings](#about-fsg-smart-buildings)
+    - [Overview](#overview)
+    - [References](#references)
+    - [Permissions](#permissions)
+    - [### Points of Contact](#-points-of-contact)
+    - [Training](#training)
+  - [## Global Navigation](#-global-navigation)
+    - [Dock](#dock)
+    - [Site List](#site-list)
+    - [Maps](#maps)
+    - [Simple Site View](#simple-site-view)
+  - [## Site Controls](#-site-controls)
+    - [HVAC Equipment](#hvac-equipment)
+    - [### Lighting Control](#-lighting-control)
+    - [Cooler/Refrigeration Temps](#coolerrefrigeration-temps)
+    - [Trash Compactors](#trash-compactors)
+    - [“Deep Controls”  (Advanced)](#deep-controls--advanced)
+    - [3 "Views" of Site Controls Page](#3-views-of-site-controls-page)
+  - [Schedules](#schedules)
+    - [Create Schedules](#create-schedules)
+    - [Schedule Editor](#schedule-editor)
+    - [Create Presets](#create-presets)
+    - [Add/Remove Presets to Schedules](#addremove-presets-to-schedules)
+    - [Mass Edit/Global Edits](#mass-editglobal-edits)
+  - [Energy Dashboard](#energy-dashboard)
+    - [Energy Trends](#energy-trends)
+  - [Asset Manager](#asset-manager)
+    - [Assets](#assets)
+    - [Component (sub-assets)](#component-sub-assets)
+    - [QR Code](#qr-code)
+    - [Image & File Upload](#image--file-upload)
+  - [Floor Plan](#floor-plan)
+    - [Floor Plan Creation](#floor-plan-creation)
+    - [Add / Remove Equipment From Floor Plan](#add--remove-equipment-from-floor-plan)
+    - [Create new floor(s)](#create-new-floors)
+  - [## Site & Equipment Health](#-site--equipment-health)
+    - [Overview](#overview-1)
+    - [Reporting and Trends](#reporting-and-trends)
+  - [Notifications](#notifications)
+    - [Rule Creation](#rule-creation)
+    - [Rule Deletion](#rule-deletion)
+  - [User Administration](#user-administration)
+    - [New Account](#new-account)
+    - [Returning User](#returning-user)
+    - [Password Reset](#password-reset)
+    - [User Access & Permissions](#user-access--permissions)
+    - [User Profiles](#user-profiles)
+    - [Add User](#add-user)
+    - [Delete User](#delete-user)
+    - [Delegate Access](#delegate-access)
+  - [# Appendix](#-appendix)
+- [## Chariot® Quick Reference](#-chariot-quick-reference)
+    - [Navigation](#navigation-2)
+  - [## Chariot® Network FAQ](#-chariot-network-faq)
+  - [## Glossary](#-glossary)
+  - [Index](#index)
+<!-- TOC END -->
 
 
 # Getting Started

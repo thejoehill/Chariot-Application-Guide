@@ -339,16 +339,16 @@ For more information and training on other features such as trends & notificatio
 ### Dock
 |Icon       |Label       |Description      |
 |-------|-------|------|
-|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/sites.png?raw=true" alt="Sites" width=75%/>|Sites|•  Shows list of all sites. <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img valign="middle" src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/online.png?raw=true" alt="Online" width =10%>= Online&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img valign="middle" src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/offline.png?raw=true" alt="Offline" width=10%/> = Offline<br>• Search by store number, city, state, etc.<br>•  Click the <img valign="middle" src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/star.png?raw=true" alt="star" width=7%/>  to toggle bookmarks to add a site to favorites list.
-|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/health.png?raw=true" alt="Health" width=75%/> |Health |See which sites are online/offline
-|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/trends.png?raw=true" alt="Trends" width=75%/> |Trends | See trends/histories of devices
-|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/notifications.png?raw=true" alt="Notifications" width=75%/> |Notifications | Setup notifications for alarm conditions
-|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/massedit.png?raw=true" alt="Mass Edit" width=75%/> |Mass Edit | Make global setpoint changes
-|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/latestchanges.png?raw=true" alt="Latest Changes" width=75%/> |Latest Changes | Log of updates/modifications
-|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/users.png?raw=true" alt="Users" width=75%/> |Users | User management (Admins only)
-|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/profile.png?raw=true" alt="Profile" width=75%/> |Profile | Change name, email, picture or password
-|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/users.png?raw=true" alt="Logout" width=75%/> |Logout | Logout of Chariot®
-|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/map.png?raw=true" alt="Map" width=75%/> |Map | • Interactive map of all sites. <br>• Click or roll the mouse wheel to zoom into locations. Mouse over to see site info, local  weather, online status, and links.<br> • Select Map Layers <img valign="middle" src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/map.png?raw=true" alt="Map" width=7%/>   to toggle clouds, precipitation, pressure, wind, temperature.
+|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/sites.png?raw=true" alt="Sites"  width="35">|Sites|•  Shows list of all sites. <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img valign="middle" src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/online.png?raw=true" alt="Online" width="35">= Online&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img valign="middle" src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/offline.png?raw=true" alt="Offline" width="35"/> = Offline<br>• Search by store number, city, state, etc.<br>•  Click the <img valign="middle" src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/star.png?raw=true" alt="star"  width="35">  to toggle bookmarks to add a site to favorites list.
+|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/health.png?raw=true" alt="Health"  width="35"> |Health |See which sites are online/offline
+|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/trends.png?raw=true" alt="Trends"  width="35"> |Trends | See trends/histories of devices
+|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/notifications.png?raw=true" alt="Notifications"  width="35"> |Notifications | Setup notifications for alarm conditions
+|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/massedit.png?raw=true" alt="Mass Edit"  width="35"> |Mass Edit | Make global setpoint changes
+|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/latestchanges.png?raw=true" alt="Latest Changes"  width="35"> |Latest Changes | Log of updates/modifications
+|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/users.png?raw=true" alt="Users"  width="35"> |Users | User management (Admins only)
+|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/profile.png?raw=true" alt="Profile"  width="35"> |Profile | Change name, email, picture or password
+|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/users.png?raw=true" alt="Logout"  width="35"> |Logout | Logout of Chariot®
+|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/map.png?raw=true" alt="Map"  width="35"> |Map | • Interactive map of all sites. <br>• Click or roll the mouse wheel to zoom into locations. Mouse over to see site info, local  weather, online status, and links.<br> • Select Map Layers <img valign="middle" src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/map.png?raw=true" alt="Map"  width="35">   to toggle clouds, precipitation, pressure, wind, temperature.
 
 
 ### Site List
@@ -359,7 +359,7 @@ The site list page provides and easy to filter the list of all portfolio sites a
 
 #### Favorites
 
-Click the <img valign="middle" src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/star.png?raw=true" alt="star" width=5%/>  to toggle bookmarks to add a site to favorites.
+Click the <img valign="middle" src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/star.png?raw=true" alt="star" width="35">  to toggle bookmarks to add a site to favorites.
 <img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/favorites.png?raw=true" alt="Favorites"/>
 
 #### Filters

@@ -54,7 +54,7 @@ You have 6 H1 headings. You may want to use the "H1 -> H2" option to demote all 
 October 2020
 
 <br><br><br><br><br><br>
-
+<div style="page-break-after: always"></div>
 
 
 
@@ -71,8 +71,8 @@ October 2020
 - [Getting Started](#getting-started)
   - [System Requirements](#system-requirements)
   - [Browser Compatibility](#browser-compatibility)
-  - [## Accessing Chariot®](#-accessing-chariot)
-  - [## IT Network Information](#-it-network-information)
+  - [Accessing Chariot®](#accessing-chariot)
+  - [IT Network Information](#it-network-information)
     - [Frequently Asked Questions (‘FAQ’)](#frequently-asked-questions-faq)
     - [Application Architecture](#application-architecture)
 - [User Manual](#user-manual)
@@ -81,16 +81,16 @@ October 2020
     - [Overview](#overview)
     - [References](#references)
     - [Permissions](#permissions)
-    - [### Points of Contact](#-points-of-contact)
+    - [Points of Contact](#points-of-contact)
     - [Training](#training)
-  - [## Global Navigation](#-global-navigation)
+  - [Global Navigation](#global-navigation)
     - [Dock](#dock)
     - [Site List](#site-list)
     - [Maps](#maps)
     - [Simple Site View](#simple-site-view)
-  - [## Site Controls](#-site-controls)
+  - [Site Controls](#site-controls)
     - [HVAC Equipment](#hvac-equipment)
-    - [### Lighting Control](#-lighting-control)
+    - [Lighting Control](#lighting-control)
     - [Cooler/Refrigeration Temps](#coolerrefrigeration-temps)
     - [Trash Compactors](#trash-compactors)
     - [“Deep Controls”  (Advanced)](#deep-controls--advanced)
@@ -112,7 +112,7 @@ October 2020
     - [Floor Plan Creation](#floor-plan-creation)
     - [Add / Remove Equipment From Floor Plan](#add--remove-equipment-from-floor-plan)
     - [Create new floor(s)](#create-new-floors)
-  - [## Site & Equipment Health](#-site--equipment-health)
+  - [Site & Equipment Health](#site--equipment-health)
     - [Overview](#overview-1)
     - [Reporting and Trends](#reporting-and-trends)
   - [Notifications](#notifications)
@@ -127,18 +127,25 @@ October 2020
     - [Add User](#add-user)
     - [Delete User](#delete-user)
     - [Delegate Access](#delegate-access)
-  - [# Appendix](#-appendix)
-- [## Chariot® Quick Reference](#-chariot-quick-reference)
+- [Appendix](#appendix)
+  - [Chariot® Quick Reference](#chariot-quick-reference)
     - [Navigation](#navigation-2)
-  - [## Chariot® Network FAQ](#-chariot-network-faq)
-  - [## Glossary](#-glossary)
+  - [Chariot® Network FAQ](#chariot-network-faq)
+  - [Glossary](#glossary)
   - [Index](#index)
 <!-- TOC END -->
+<div style="page-break-after: always"></div>
 
+
+<br><br><br><br><br>
 
 # Getting Started
 
+
 **Version 1.0**
+
+
+
 
 October 2020
 
@@ -167,9 +174,6 @@ Verified compatible browsers include:
 *   Safari
 
 
-##
-
-
 ## Accessing Chariot®
 
 Open any web browser on your computer, tablet or smartphone and navigate to the below URL to access your instance of Chariot®.
@@ -189,23 +193,18 @@ You should have received an invitation to create your Chariot account.
 **Problems?**
 
 Please contact [smart.support@fsgi.com](mailto:smart.support@fsgi.com) for assistance with login issues.
-
-
-##
-
+<div style="page-break-after: always"></div>
 
 ## IT Network Information
 
- \
-FSG has a very simple requirement for connectivity.  Open outbound internet access is all that is required.  This access can be provided in a variety of ways.  \
+
+FSG has a very simple requirement for connectivity.  Open outbound internet access is all that is required.  This access can be provided in a variety of ways.
 
 
-Method 1
-
+<span style="text-decoration: underline">Method 1</span><br>
 The preferred method is to utilize your existing network by provisioning a secure VLAN.  This allows only outbound traffic from our equipment that securely connects to our Google Cloud environment where the Chariot© platform lives.
 
-Method 2
-
+<span style="text-decoration: underline">Method 2</span><br>
 Alternatively, open outbound internet access can be established from bringing in a separate ISP altogether.  By establishing an additional DSL line from your current provider, or a cellular modem from a wireless carrier, we can connect your facility’s equipment to our cloud network.
 
 
@@ -296,7 +295,7 @@ Chariot®  is a registered trademark of Facility Solutions Group, Inc.
 Copyright © 2020 Facility Solutions Group, Inc. All Rights Reserved.
 
 
-###
+
 
 
 ### Points of Contact
@@ -335,7 +334,6 @@ Training sessions to review deeper functionality can be scheduled as needed.
 For more information and training on other features such as trends & notifications please contact [smart.support@fsgi.com](mailto:smart.support@fsgi.com).
 
 
-##
 
 
 ## Global Navigation
@@ -406,7 +404,6 @@ Selecting any of the clustered points on the map will zoom into that area automa
 **MAP - AREA AFTER SELECTION**
 
 
-####
 
 
 #### Weather
@@ -436,8 +433,6 @@ Users that have Simple Site View available to them will have a new user setting 
 
 If you would like to have Simple Site View enabled, please email FSG Smart Buildings Support.
 
-
-##
 
 
 ## Site Controls
@@ -493,7 +488,6 @@ This mode turns the HVAC fan off.  It will not run while this setting is active.
 **GRID VIEW (HVAC)**
 
 
-###
 
 
 ### Lighting Control
@@ -557,8 +551,6 @@ To enable this feature, pressure sensors must be installed in order to read the 
 
     Grouped by configured "zones"
 
-
-####
 
 <p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -655,7 +647,6 @@ This feature is near completion but is massively complex in the background. It w
 ### Create new floor(s)
 
 
-##
 
 
 ## Site & Equipment Health
@@ -708,8 +699,6 @@ With this additional context, you have better insight into the data being report
 
 #### Stopwatch/Pareto
 
-
-#####
 
 
 ##### Stopwatch Trends - Time Frame Grouping
@@ -788,7 +777,6 @@ The"% of Period" column makes it easier to identify what values are most commonl
 ### Delegate Access
 
 
-##
 
 
 # Appendix
@@ -798,7 +786,6 @@ The"% of Period" column makes it easier to identify what values are most commonl
 October 2020
 
 
-#
 
 
 ## Chariot® Quick Reference
@@ -942,7 +929,6 @@ See User Manual for detailed information on setting up advanced notifications.
 The scheduling features of Chariot® are hardware dependent and not available to all sites within a given portfolio
 
 
-##
 
 
 ## Chariot® Network FAQ
@@ -995,7 +981,6 @@ Chariot® is compatible with any modern web browser and does not require any sof
 Verified compatible browsers include: Google Chrome, Mozilla Firefox, Internet Explorer, Safari
 
 
-##
 
 
 ## Glossary

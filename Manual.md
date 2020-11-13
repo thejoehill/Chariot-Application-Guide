@@ -53,7 +53,10 @@ You have 6 H1 headings. You may want to use the "H1 -> H2" option to demote all 
 
 October 2020
 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+Copyright © 2020 Facility Solutions Group, Inc. All Rights Reserved.
+
 <div style="page-break-after: always"></div>
 
 
@@ -82,7 +85,7 @@ October 2020
     - [References](#references)
     - [Permissions](#permissions)
     - [Points of Contact](#points-of-contact)
-    - [Training](#training)
+    - [Training<br>](#training)
   - [Global Navigation](#global-navigation)
     - [Dock](#dock)
     - [Site List](#site-list)
@@ -151,6 +154,7 @@ October 2020
 
 
 
+<div style="page-break-after: always"></div>
 
 ## System Requirements
 
@@ -173,6 +177,7 @@ Verified compatible browsers include:
 *   Internet Explorer
 *   Safari
 
+<div style="page-break-after: always"></div>
 
 ## Accessing Chariot®
 
@@ -212,36 +217,40 @@ Alternatively, open outbound internet access can be established from bringing in
 
 
 
-1. Q: My IT department doesn’t allow any 3rd party equipment on our network.  Can you meet this requirement? \
-A: Yes. If this is a constraint, FSG would suggest that connectivity Method 2 be used.  This creates a complete “air gap” from your existing network, where the two never touch. \
+1. **Q: My IT department doesn’t allow any 3rd party equipment on our network.  Can you meet this requirement?**<br>
+Yes. If this is a constraint, FSG would suggest that connectivity Method 2 be used.  This creates a complete “air gap” from your existing network, where the two never touch.
 
-2. Q: Can I provide my own separate ISP connection? \
-A:  Yes.  Many customers either provide their own terrestrial (landline) connection which yields the best performance.  Contingent upon network coverage, providing a cellular modem works just as well.  FSG has options to furnish this equipment as part of your Chariot© subscription should you elect to have us provide this as part of your package. \
+2. **Q: Can I provide my own separate ISP connection?**<br>
+Yes.  Many customers either provide their own terrestrial (landline) connection which yields the best performance.  Contingent upon network coverage, providing a cellular modem works just as well.  FSG has options to furnish this equipment as part of your Chariot© subscription should you elect to have us provide this as part of your package.
 
-3. Q:  How can I be sure that my network won’t get hacked? \
-A:  FSG utilizes a secure VPN connection directly to our secured cloud environment.  This connection establishes an outbound only connection, ensuring that no incoming traffic is allowed.  Over this connection, all communication between your onsite equipment and the Chariot© platform takes place. \
+3. **How can I be sure that my network won’t get hacked?**<br>
+FSG utilizes a secure VPN connection directly to our secured cloud environment.  This connection establishes an outbound only connection, ensuring that no incoming traffic is allowed.  Over this connection, all communication between your onsite equipment and the Chariot© platform takes place.
 
-4. Q:  What are the technical details supporting the security of the cloud environment? \
-A:  Technically speaking, the system only requires an outbound connection to function limiting to external risk. The connection further uses ChaCha20 for symmetric encryption with Poly1305 for message authentication, a combination that’s more performant than AES on embedded CPU architectures that don’t have cryptographic hardware acceleration; Curve25519 for elliptic-curve Diffie-Hellman (ECDH) key agreement; BLAKE2s for hashing, which is faster than SHA-3; and a 1.5 Round Trip Time (1.5-RTT) handshake that’s based on the Noise framework and provides forward secrecy. It also includes built-in protection against key impersonation, denial-of-service and replay attacks, as well as some post-quantum cryptographic resistance.
+4. **Q:  What are the technical details supporting the security of the cloud environment?**<br>
+Technically speaking, the system only requires an outbound connection to function limiting to external risk. The connection further uses ChaCha20 for symmetric encryption with Poly1305 for message authentication, a combination that’s more performant than AES on embedded CPU architectures that don’t have cryptographic hardware acceleration; Curve25519 for elliptic-curve Diffie-Hellman (ECDH) key agreement; BLAKE2s for hashing, which is faster than SHA-3; and a 1.5 Round Trip Time (1.5-RTT) handshake that’s based on the Noise framework and provides forward secrecy. It also includes built-in protection against key impersonation, denial-of-service and replay attacks, as well as some post-quantum cryptographic resistance.
 
+<div style="page-break-after: always"></div>
 
 ### Application Architecture
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
+<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/FSG%20Smart%20Buildings%20_%20AR150%20Network%20Architecture.png?raw=true" alt="Application Architecture Drawing"/>
+<div style="page-break-after: always"></div>
 
 
+<br><br><br><br><br>
 
 # User Manual
 
+
 **Version 1.0**
+
+
+
 
 October 2020
 
 
 
+<div style="page-break-after: always"></div>
 
 ## General Information
 
@@ -259,30 +268,32 @@ This manual is a comprehensive guide to all the features within the Chariot® pl
 
 
 
-*   Getting Started \
+* **Getting Started**<br>
 This section covers system requirements for use with the Chariot® platform as well as Browser Compatibility.
-*   User Manual \
+* **User Manual**<br>
 This section is a detailed user guide to all of the Chariot® platform features.  It covers in depth how to use the advanced features such as global setpoints, advanced notifications, trending reports, and user administration.
-*   Appendix \
+* **Appendix**<br>
 This section contains a Quick Reference Guide for the Chariot® platform in addition to the glossary and index of the manual.
 
 
 ### References
 
 
-            Niagara  AX/4	The Niagara Framework is a universal software infrastructure that allows building controls integrators, HVAC and mechanical contractors to build custom, web-enabled applications for accessing, automating and controlling smart devices real-time via local network or over the Internet.  \
+**Niagara  AX/4**<br>
+The Niagara Framework is a universal software infrastructure that allows building controls integrators, HVAC and mechanical contractors to build custom, web-enabled applications for accessing, automating and controlling smart devices real-time via local network or over the Internet.  \
 [https://www.tridium.com/products-services/niagara4](https://www.tridium.com/products-services/niagara4)
 
 
-            ASHRAE	ASHRAE, founded in 1894, is a global society advancing human well-being through sustainable technology for the built environment. The Society and its members focus on building systems, energy efficiency, indoor air quality, refrigeration and sustainability within the industry. Through research, standards writing, publishing and continuing education, ASHRAE shapes tomorrow’s built environment today. ASHRAE was formed as the American Society of Heating, Refrigerating and Air-Conditioning Engineers by the merger in 1959 of American Society of Heating and Air-Conditioning Engineers (ASHAE) founded in 1894 and The American Society of Refrigerating Engineers (ASRE) founded in 1904. \
-[https://www.ashrae.org/](https://www.ashrae.org/)
+**ASHRA**<br>
+ASHRAE, founded in 1894, is a global society advancing human well-being through sustainable technology for the built environment. The Society and its members focus on building systems, energy efficiency, indoor air quality, refrigeration and sustainability within the industry. Through research, standards writing, publishing and continuing education, ASHRAE shapes tomorrow’s built environment today. ASHRAE was formed as the American Society of Heating, Refrigerating and Air-Conditioning Engineers by the merger in 1959 of American Society of Heating and Air-Conditioning Engineers (ASHAE) founded in 1894 and The American Society of Refrigerating Engineers (ASRE) founded in 1904. \
+[https://www.ashrae.org/](https://www.ashrae.org/)<br>
 
-
-            ENERGY STAR®	ENERGY STAR® is the government-backed symbol for energy efficiency, providing simple, credible, and unbiased information that consumers and businesses rely on to make well-informed decisions. Thousands of industrial, commercial, utility, state, and local organizations—including about 40% of the Fortune 500®—partner with the U.S. Environmental Protection Agency (EPA) to deliver cost-saving energy efficiency solutions that improve air quality and protect the climate. Since 1992, ENERGY STAR and its partners helped American families and businesses save more than 4 trillion kilowatt-hours of electricity and achieve over 3.5 billion metric tons of greenhouse gas reductions, equivalent to the annual emissions of more than 750 million cars. In 2018 alone, ENERGY STAR and its partners helped Americans avoid $35 billion in energy costs. \
+**ENERGY STAR®	ENERGY STAR®**<br>
+The government-backed symbol for energy efficiency, providing simple, credible, and unbiased information that consumers and businesses rely on to make well-informed decisions. Thousands of industrial, commercial, utility, state, and local organizations—including about 40% of the Fortune 500®—partner with the U.S. Environmental Protection Agency (EPA) to deliver cost-saving energy efficiency solutions that improve air quality and protect the climate. Since 1992, ENERGY STAR and its partners helped American families and businesses save more than 4 trillion kilowatt-hours of electricity and achieve over 3.5 billion metric tons of greenhouse gas reductions, equivalent to the annual emissions of more than 750 million cars. In 2018 alone, ENERGY STAR and its partners helped Americans avoid $35 billion in energy costs. \
 [https://www.energystar.gov/](https://www.energystar.gov/)
 
 
-            Internet of Things (‘IoT’)		 \
+**Internet of Things (‘IoT’)**<br>
 The Internet of things describes the network of physical objects - “things” - that are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems over the Internet.
 
 
@@ -295,97 +306,61 @@ Chariot®  is a registered trademark of Facility Solutions Group, Inc.
 Copyright © 2020 Facility Solutions Group, Inc. All Rights Reserved.
 
 
-
-
-
 ### Points of Contact
 
-Address
+**Address**<br>
+FSG Smart Buildings<br>
+101 E. Old Settlers Blvd. Ste. 200<br>
+Round Rock, Texas 78664<br>
 
-FSG Smart Buildings
-
-101 E. Old Settlers Blvd. Ste. 200
-
-Round Rock, Texas 78664
-
-Website
-
+**Website**<br>
 [https://fsgsmartbuildings.com](https://fsgsmartbuildings.com)
 
-Phone
+**Phone**<br>
+(512) 835-6120<br>
 
-(512) 835-6120
-
-Sales
-
+**Sales**<br>
 [info@fsgsmartbuildings.com](mailto:info@fsgsmartbuildings.com)
 
-Support
-
-(888) 886-7274
-
+**Support**<br>
+(888) 886-7274<br>
 [smart.support@fsgi.com](mailto:smart.support@fsgi.com)
 
 
-### Training
-
+### Training<br>
 Training sessions to review deeper functionality can be scheduled as needed.
 
 For more information and training on other features such as trends & notifications please contact [smart.support@fsgi.com](mailto:smart.support@fsgi.com).
-
-
 
 
 ## Global Navigation
 
 
 ### Dock
-
-
-                    [**Sites**]	Shows list of all sites. =Online =Offline \
-Search by store number, city, state, etc.   \
-Click the  to toggle bookmarks to add a site to favorites.
-
-
-                    [**Health**]	See which sites are online/offline.
-
-
-                    [**Trends**]	See trends/history of devices.
-
-
-                    [**Notifications**]	Setup Notifications for alarm conditions.
-
-
-                    [**Mass Edit**]	Make global setpoint changes
-
-
-                    [**Latest Changes**]	Log of updates/modifications
-
-
-                    [**Users**]	User management (Admins only)
-
-
-                    [**Profile**]	Change name, email, picture or password.
-
-
-                    [**Logout**]	Logout of Chariot®.
-
-
-                    [**Map**]	Interactive map of all sites. \
-Click or roll the mouse wheel to zoom into locations. \
-Mouse over to see site info, local  weather, online status, and links. \
-Select Map Layers    to toggle clouds, precipitation, pressure, wind, temperature.
+|Icon       |Label       |Description      |
+|-------|-------|------|
+|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/sites.png?raw=true" alt="Sites" width=75%/>|Sites|•  Shows list of all sites. <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/online.png?raw=true" alt="Online" width =10%>= Online&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/offline.png?raw=true" alt="Offline" width=10%/> = Offline<br>• Search by store number, city, state, etc.<br>•  Click the <img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/star.png?raw=true" alt="star" width=7%/>  to toggle bookmarks to add a site to favorites list.
+|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/health.png?raw=true" alt="Health" width=75%/> |Health |See which sites are online/offline
+|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/trends.png?raw=true" alt="Trends" width=75%/> |Trends | See trends/histories of devices
+|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/notifications.png?raw=true" alt="Notifications" width=75%/> |Notifications | Setup notifications for alarm conditions
+|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/massedit.png?raw=true" alt="Mass Edit" width=75%/> |Mass Edit | Make global setpoint changes
+|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/latestchanges.png?raw=true" alt="Latest Changes" width=75%/> |Latest Changes | Log of updates/modifications
+|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/users.png?raw=true" alt="Users" width=75%/> |Users | User management (Admins only)
+|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/profile.png?raw=true" alt="Profile" width=75%/> |Profile | Change name, email, picture or password
+|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/users.png?raw=true" alt="Logout" width=75%/> |Logout | Logout of Chariot®
+|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/map.png?raw=true" alt="Map" width=75%/> |Map | • Interactive map of all sites. <br>• Click or roll the mouse wheel to zoom into locations. Mouse over to see site info, local  weather, online status, and links.<br> • Select Map Layers <img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/map.png?raw=true" alt="Map" width=7%/>   to toggle clouds, precipitation, pressure, wind, temperature.
 
 
 ### Site List
 
 The site list page provides and easy to filter the list of all portfolio sites and consists of a map and a list of locations.  Select a site from the list, or type any part of the store id, city, state, or address to immediately filter the list in place to quickly find the site you are looking for.
+<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/sitelist.png?raw=true" alt="Site List"/>
 
 
 #### Favorites
 
-Click the   to toggle bookmarks to add a site to favorites.
-
+Click the <img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/star.png?raw=true" alt="star" width=5%/>  to toggle bookmarks to add a site to favorites.
+<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/favorites.png?raw=true" alt="Favorites"/>
 
 #### Filters
 

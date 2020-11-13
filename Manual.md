@@ -17,7 +17,7 @@ October 2020
 
 Copyright © 2020 Facility Solutions Group, Inc. All Rights Reserved.
 
-<div style="page-break-after: always"></div>
+
 
 
 
@@ -97,7 +97,7 @@ Copyright © 2020 Facility Solutions Group, Inc. All Rights Reserved.
   - [Glossary](#glossary)
   - [Index](#index)
 <!-- TOC END -->
-<div style="page-break-after: always"></div>
+
 
 
 <br><br><br><br><br>
@@ -114,7 +114,7 @@ October 2020
 
 
 
-<div style="page-break-after: always"></div>
+
 
 ## System Requirements
 
@@ -137,7 +137,7 @@ Verified compatible browsers include:
 *   Internet Explorer
 *   Safari
 
-<div style="page-break-after: always"></div>
+
 
 ## Accessing Chariot®
 
@@ -158,7 +158,7 @@ You should have received an invitation to create your Chariot account.
 **Problems?**
 
 Please contact [smart.support@fsgi.com](mailto:smart.support@fsgi.com) for assistance with login issues.
-<div style="page-break-after: always"></div>
+
 
 ## IT Network Information
 
@@ -189,11 +189,11 @@ FSG utilizes a secure VPN connection directly to our secured cloud environment. 
 4. **Q:  What are the technical details supporting the security of the cloud environment?**<br>
 Technically speaking, the system only requires an outbound connection to function limiting to external risk. The connection further uses ChaCha20 for symmetric encryption with Poly1305 for message authentication, a combination that’s more performant than AES on embedded CPU architectures that don’t have cryptographic hardware acceleration; Curve25519 for elliptic-curve Diffie-Hellman (ECDH) key agreement; BLAKE2s for hashing, which is faster than SHA-3; and a 1.5 Round Trip Time (1.5-RTT) handshake that’s based on the Noise framework and provides forward secrecy. It also includes built-in protection against key impersonation, denial-of-service and replay attacks, as well as some post-quantum cryptographic resistance.
 
-<div style="page-break-after: always"></div>
+
 
 ### Application Architecture
 <img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/FSG%20Smart%20Buildings%20_%20AR150%20Network%20Architecture.png?raw=true" alt="Application Architecture Drawing"/>
-<div style="page-break-after: always"></div>
+
 
 
 <br><br><br><br><br>
@@ -210,7 +210,7 @@ October 2020
 
 
 
-<div style="page-break-after: always"></div>
+
 
 ## General Information
 

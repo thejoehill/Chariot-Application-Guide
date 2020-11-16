@@ -325,7 +325,7 @@ Click the <img valign="middle" src="https://github.com/thejoehill/Chariot-Applic
 #### Filters
 
 Chariot® allows you to apply filters to the site list to show groups of sites that meet the designated criteria.  You can filter this to see only your favorite sites, or sites  in a specific city or state, as well as hide offline sites, or only show offline sites.
-
+<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/filters.png?raw=true" alt="Filter dropdown"/>
 
 ### Maps
 
@@ -334,10 +334,11 @@ Chariot® allows you to apply filters to the site list to show groups of sites t
 
 Selecting any of the clustered points on the map will zoom into that area automatically.
 
-**MAP - MOUSE OVER AREA**
+**Mouse over area cluster**
+<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/map-mouse-over-area.png?raw=true" alt="Mouse over"/>
 
-**MAP - AREA AFTER SELECTION**
-
+**Click to zoom into area**
+<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/map-area-after-selection.png?raw=true" alt="Area after selection"/>
 
 
 
@@ -346,7 +347,7 @@ Selecting any of the clustered points on the map will zoom into that area automa
 Next to the site list is the map panel.  The map panel is intended to give a contextual way to navigate to sites quickly and easily by zooming into a location and clicking.  In the top right corner of the map is an icon (         ) that will toggle on/off the map layers.
 
 Available map layers are:
-
+<img align="right" src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/map-layers.png?raw=true" width=30% alt="Map Layers"/>
 
 
 *   Clouds
@@ -354,18 +355,22 @@ Available map layers are:
 *   Pressure
 *   Wind
 *   Temperature
+<br>
+<br>
 
-**MAP WITH TEMPERATURE LAYER**
+**Map with temperature layer selected**
+<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/map-with-temp.png?raw=true" alt="Map with temperature layer"/>
 
 **MAP WITH PRECIPITATION LAYER**
+<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/map-with-prec.png?raw=true" alt="Map with precipitation layer"/>
 
 
 ### Simple Site View
 
-Today we've added a new, simpler site view available to some users for testing & feedback. This streamlined view focuses on the on-site IoT devices and simplifies the experience of managing your sites.
-
-Users that have Simple Site View available to them will have a new user setting available to enable it.
-
+The Chariot platform has the ability to default to a simpler site view if enabled. This streamlined view focuses on the on-site IoT devices and simplifies the experience of managing your sites.<br>
+<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/simple-site-view.png?raw=true" alt="Simple Site View"/><br>
+Users that have Simple Site View available to them will have a new user setting available to enable it.<br>
+<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/simple-site-view-enable.gif?raw=true" alt="Simple Site View enable toggle"/><br>
 If you would like to have Simple Site View enabled, please email FSG Smart Buildings Support.
 
 

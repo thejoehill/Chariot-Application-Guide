@@ -363,7 +363,7 @@ Available map layers are:
 **Map with temperature layer selected**
 <img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/map-with-temp.png?raw=true" alt="Map with temperature layer"/>
 
-**MAP WITH PRECIPITATION LAYER**
+**Map with precipitation layer selected**
 <img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/map-with-prec.png?raw=true" alt="Map with precipitation layer"/>
 
 

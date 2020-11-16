@@ -357,6 +357,8 @@ Available map layers are:
 *   Temperature
 <br>
 <br>
+<br>
+<br>
 
 **Map with temperature layer selected**
 <img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/map-with-temp.png?raw=true" alt="Map with temperature layer"/>

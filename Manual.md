@@ -598,7 +598,7 @@ Basic 24 hour snapshot of meter metrics
 
 ### Overview
 
-Any time you see the trend icon (            ) you can select it to immediately jump to the Reporting and Trends section of Chariot®.  Once there, you can select the start / end dates and time zone you want to use.
+Any time you see the trend icon ![Trends](/images/trends.png "Trends icon") you can select it to immediately jump to the Reporting and Trends section of Chariot®.  Once there, you can select the start / end dates and time zone you want to use.
 
 
 ### Reporting and Trends

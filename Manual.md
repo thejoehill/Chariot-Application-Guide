@@ -174,7 +174,10 @@ Verified compatible browsers include:
 
 Open any web browser on your computer, tablet or smartphone and navigate to your custom URL as shown below to access your instance of Chariot®.
 
+_Example) `chotchkies.fsgchariot.app` or `acme.fsgchariot.app` or `demo.fsgchariot.app`_
+
 ![Chariot URL](/images/chariot-url.gif)
+
 
 
 **Credentials**
@@ -538,8 +541,6 @@ Chariot® has the ability to move and rearrange preset zones in a schedule by cl
 
 ![Schedule Editor](/images/schedule-editor.gif)
 
-
-
 Additionally, hovering over a preset zone will reveal the name of the preset associated with the zone.
 
 
@@ -552,7 +553,7 @@ Additionally, hovering over a preset zone will reveal the name of the preset ass
 ### Mass Edit/Global Edits
 
 
-    This feature is very new and has several caveats based on system type. I'd suggest bringing up the page and discussing basic capabilities but not trying to live walk through the total flow.
+This feature is very new and has several caveats based on system type. I'd suggest bringing up the page and discussing basic capabilities but not trying to live walk through the total flow.
 
 
 ## Energy Dashboard
@@ -566,7 +567,7 @@ This feature is near completion but is massively complex in the background. It w
 #### Snapshots
 
 
-    Basic 24 hour snapshot of meter metrics
+Basic 24 hour snapshot of meter metrics
 
 
 ## Asset Manager

@@ -752,7 +752,7 @@ October 2020
 
 11. **How is access authenticated (SSO, local accounts, etc)?**<br>
   FSG utilizes a secure VPN connection directly to our secured cloud environment.  This connection establishes an outbound only connection, ensuring that no incoming traffic is allowed.  Over this connection, all communication between your onsite equipment and the Chariot© platform takes place.
-  
+
 12. **Who maintains patching of the system and its components?**<br>
   All software patches are managed in the cloud or over secure connection to the local site’s VPN router.
 
@@ -765,8 +765,7 @@ October 2020
   No, it is all managed by FSG in it’s secure cloud environment.
 
 16. **What application requirements exist for the solution?**<br>
-  Chariot® is compatible with any modern web browser and does not require any software to be downloaded or installed.
-
+  Chariot® is compatible with any modern web browser and does not require any software to be downloaded or installed.<br><br>
   _Verified compatible browsers include: Google Chrome, Mozilla Firefox, Internet Explorer, Safari_
 
 

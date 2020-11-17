@@ -28,7 +28,7 @@ Copyright © 2020 Facility Solutions Group, Inc. All Rights Reserved.
 # Table Of Contents
 </center>
 
-<!-- TOC START min:1 max:3 link:true asterisk:false update:true -->
+<!-- TOC START min:1 max:4 link:true asterisk:false update:true -->
 - [Application Manual](#application-manual)
 - [Table Of Contents](#table-of-contents)
 - [Getting Started](#getting-started)
@@ -49,15 +49,31 @@ Copyright © 2020 Facility Solutions Group, Inc. All Rights Reserved.
   - [Global Navigation](#global-navigation)
     - [Dock](#dock)
     - [Site List](#site-list)
+      - [Favorites](#favorites)
+      - [Filters](#filters)
     - [Maps](#maps)
+      - [Navigation](#navigation)
+      - [Weather](#weather)
     - [Simple Site View](#simple-site-view)
   - [Site Controls](#site-controls)
     - [HVAC Equipment](#hvac-equipment)
+      - [System Mode](#system-mode)
+      - [Fan Mode](#fan-mode)
+      - [Zone / Device View (HVAC)](#zone--device-view-hvac)
+      - [Grid View (HVAC)](#grid-view-hvac)
     - [Lighting Control](#lighting-control)
+      - [Lighting Zones](#lighting-zones)
+      - [Controllable Device](#controllable-device)
+      - [Read-Only Device](#read-only-device)
+      - [Panel Layout](#panel-layout)
     - [Cooler/Refrigeration Temps](#coolerrefrigeration-temps)
+      - [Sensors](#sensors)
     - [Trash Compactors](#trash-compactors)
     - [“Deep Controls”  (Advanced)](#deep-controls--advanced)
     - [3 "Views" of Site Controls Page](#3-views-of-site-controls-page)
+      - [Zones](#zones)
+      - [Grid View](#grid-view)
+      - [Table format](#table-format)
   - [Schedules](#schedules)
     - [Create Schedules](#create-schedules)
     - [Schedule Editor](#schedule-editor)
@@ -66,6 +82,7 @@ Copyright © 2020 Facility Solutions Group, Inc. All Rights Reserved.
     - [Mass Edit/Global Edits](#mass-editglobal-edits)
   - [Energy Dashboard](#energy-dashboard)
     - [Energy Trends](#energy-trends)
+      - [Snapshots](#snapshots)
   - [Asset Manager](#asset-manager)
     - [Assets](#assets)
     - [Component (sub-assets)](#component-sub-assets)
@@ -78,6 +95,12 @@ Copyright © 2020 Facility Solutions Group, Inc. All Rights Reserved.
   - [Site & Equipment Health](#site--equipment-health)
     - [Overview](#overview-1)
     - [Reporting and Trends](#reporting-and-trends)
+      - [Navigation](#navigation-1)
+      - [Line Chart](#line-chart)
+      - [Bar Chart](#bar-chart)
+      - [CSV](#csv)
+      - [Heat map](#heat-map)
+      - [Stopwatch/Pareto](#stopwatchpareto)
   - [Notifications](#notifications)
     - [Rule Creation](#rule-creation)
     - [Rule Deletion](#rule-deletion)
@@ -93,6 +116,12 @@ Copyright © 2020 Facility Solutions Group, Inc. All Rights Reserved.
 - [Appendix](#appendix)
   - [Chariot® Quick Reference](#chariot-quick-reference)
     - [Navigation](#navigation-2)
+      - [Main Page](#main-page)
+      - [Site Controls Page](#site-controls-page)
+      - [Health Page](#health-page)
+      - [Trends](#trends)
+      - [Notifications](#notifications-1)
+      - [Schedules](#schedules-1)
   - [Chariot® Network FAQ](#chariot-network-faq)
   - [Glossary](#glossary)
   - [Index](#index)
@@ -421,16 +450,12 @@ This mode sets the HVAC fan to run continuously regardless of the system mode or
 This mode turns the HVAC fan off.  It will not run while this setting is active.
 
 
-#### Panel Layout
-
----
-
-**Zone / Device View (HVAC)**
+#### Zone / Device View (HVAC)
 <img valign="middle" src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/zone-device-view.png?raw=true" alt="HVAC Device View">
 
 ---
 
-**Grid View (HVAC)**
+#### Grid View (HVAC)
 <img valign="middle" src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/hvac-grid-view.png?raw=true" alt="HVAC Grid View"/>
 
 ---

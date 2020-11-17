@@ -65,11 +65,12 @@ Copyright © 2020 Facility Solutions Group, Inc. All Rights Reserved.
       - [Lighting Zones](#lighting-zones)
       - [Controllable Device](#controllable-device)
       - [Read-Only Device](#read-only-device)
-      - [Panel Layout](#panel-layout)
+      - [Zone / Device View (Lighting)](#zone--device-view-lighting)
+      - [Grid View (Lighting)](#grid-view-lighting)
     - [Cooler/Refrigeration Temps](#coolerrefrigeration-temps)
       - [Sensors](#sensors)
     - [Trash Compactors](#trash-compactors)
-    - [“Deep Controls”  (Advanced)](#deep-controls--advanced)
+    - [“Deep Controls”  (Advanced Controls)](#deep-controls--advanced-controls)
     - [3 "Views" of Site Controls Page](#3-views-of-site-controls-page)
       - [Zones](#zones)
       - [Grid View](#grid-view)
@@ -376,32 +377,33 @@ Selecting any of the clustered points on the map will zoom into that area automa
 Next to the site list is the map panel.  The map panel is intended to give a contextual way to navigate to sites quickly and easily by zooming into a location and clicking.  In the top right corner of the map is an icon <img valign="middle" src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/map.png?raw=true" alt="Map"  width="35"> that will toggle on/off the map layers.
 
 Available map layers are:
-<img align="right" src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/map-layers.png?raw=true" width=30% alt="Map Layers"/>
-
 
 *   Clouds
 *   Precipitation
 *   Pressure
 *   Wind
 *   Temperature
-<br>
-<br>
-<br>
-<br>
+
+![Map Layers](/images/map-layers.png)
+
 
 **Map with temperature layer selected**
-<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/map-with-temp.png?raw=true" alt="Map with temperature layer"/>
+![Map with temperature layer](/images/map-with-temp.png)
 
 **Map with precipitation layer selected**
-<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/map-with-prec.png?raw=true" alt="Map with precipitation layer"/>
+![Map with precipitation layer](/images/map-with-prec.png)
 
 
 ### Simple Site View
 
 The Chariot platform has the ability to default to a simpler site view if enabled. This streamlined view focuses on the on-site IoT devices and simplifies the experience of managing your sites.<br>
-<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/simple-site-view.png?raw=true" alt="Simple Site View"/><br>
+
+![Simple Site View](/images/simple-site-view.png)
+
 Users that have Simple Site View available to them will have a new user setting available to enable it.<br>
-<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/simple-site-view-enable.gif?raw=true" alt="Simple Site View enable toggle"/><br>
+
+![Simple Site View enable](/images/simple-site-view-enable.gif)
+
 If you would like to have Simple Site View enabled, please email FSG Smart Buildings Support.
 
 
@@ -451,14 +453,10 @@ This mode turns the HVAC fan off.  It will not run while this setting is active.
 
 
 #### Zone / Device View (HVAC)
-<img valign="middle" src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/zone-device-view.png?raw=true" alt="HVAC Device View">
-
----
+![HVAC Device View](/images/zone-device-view.png)
 
 #### Grid View (HVAC)
-<img valign="middle" src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/hvac-grid-view.png?raw=true" alt="HVAC Grid View"/>
-
----
+![HVAC Grid View](/images/hvac-grid-view.png)
 
 ### Lighting Control
 
@@ -469,24 +467,24 @@ For contactor controlled lighting circuits, the named zones are listed in the co
 
 
 #### Controllable Device
-
 These devices have read/write capabilities and can accept a command from Chariot®.
 
 
 #### Read-Only Device
-
 These devices have read-only capability and cannot be overridden inside the Chariot® dashboard.
 
 
-#### Panel Layout
+#### Zone / Device View (Lighting)
+<img valign="middle" src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/lighting-device-view.png?raw=true" alt="Lighting Device View"/>
 
-**ZONE / DEVICE VIEW (LIGHTING)**
 
-**GRID VIEW (LIGHTING)**
+#### Grid View (Lighting)
+<img valign="middle" src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/lighting-grid-view.png?raw=true" alt="Lighting Grid View"/>
 
 
 ### Cooler/Refrigeration Temps
 
+<img align="right" src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/cooler-temps.png?raw=true" width=50% alt="Temperature Sensors"/>
 
 #### Sensors
 
@@ -501,13 +499,16 @@ By default, Temperature points have a display range of 0-100°F and Humidity poi
 
 
 ### Trash Compactors
+<img align="right" src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/trash.png?raw=true" width=50% alt="Trash Compactors"/>
+
+![Trash Compactors](/images/trash.png)
 
 If available, trash compactor status components will report to Chariot. This allows you to quickly see the status of your trash compactors across your portfolio.
 
 To enable this feature, pressure sensors must be installed in order to read the compaction pressure.  You can configure alerts from Chariot® to schedule bin pickups on demand rather than on a schedule saving thousands of dollars a year.
 
 
-### “Deep Controls”  (Advanced)
+### “Deep Controls”  (Advanced Controls)
 
 
     This page is normally only useful if they ask about "more data" for HVAC equipment

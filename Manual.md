@@ -615,26 +615,29 @@ Any time you see the trend icon (            ) you can select it to immediately 
 |![Stopwatch](/images/stopwatch-icon.png)|**Stop Watch**|	Make global setpoint changes
 
 
-####  ![Line Chart](/images/trends.png)Line Chart
+####  Line Chart
 
 
 ##### Trendable Local Weather Data
 
 In the Trends feature of Chariot, you can add local weather data to trends for sites that have latitude/longitude data associated with them.
+
 ![Trendable weather](/images/trendable-weather.png)
+
 With this additional context, you have better insight into the data being reported about the site.
+
 ![Weather Trend Chart](/images/weather-trend-chart.png)
 
-#### ![Bar Chart](/images/bar-chart.png)Bar Chart
+#### Bar Chart
 
 
-#### ![Table/CSV](/images/datatable.png)CSV
+#### CSV
 
 
-#### ![Heatmap](/images/heatmap.png)Heat map
+#### Heat map
 
 
-#### ![Stopwatch](/images/stopwatch-icon.png)Stopwatch/Pareto
+#### Stopwatch/Pareto
 
 
 
@@ -644,7 +647,10 @@ Chariot® features time frame grouping in the Stopwatch Trends section. This all
 
 For example, this report from 10/14 - 10/21 can be viewed with the total period:
 
+![Time Frame Grouping](/images/stopwatch-1.png)
+
 Or the same report can be viewed grouped by a smaller time period, for example, grouped by day:
+![Time Frame Grouping - Smaller Period](/images/stopwatch-2.png)
 
 CSV exports include all points on the report, as well as the time ranges for each of the stopwatch values.
 
@@ -664,6 +670,7 @@ The "Work Hours" grouping option will show the values for each hour in the confi
 The "Daily Work Hours" grouping option will combine all the data for a day into a single timeframe, giving a different way to digest the stopwatch data.
 
 ![Stopwatch](images/stopwatch-5.png)
+
 The"% of Period" column makes it easier to identify what values are most commonly held during a time period.
 
 ## Notifications
@@ -712,44 +719,55 @@ October 2020
 
 ## Chariot® Network FAQ
 
-1.  What are the network requirements for the solution, including:
-    1. Bandwidth requirements for the proposed solution, including frequency of traffic. \
-Average 1 GB  per month. Traffic is fairly continuous.
-    2. Network port requirements (number of required physical network connections) \
-1 physical port with outbound internet access and dns resolution
-    3. IP requirements (number of addresses needed, does the solution support static IP) \
-System requires 1 static IP address.
-2. Does the solution require wireless connectivity (wifi). \
-No, the system is a wired system.
-3. Does the solution require a phone line? \
-No, the equipment uses an IP connection and relies on internet access.
-4. What are the firewall requirements (what ports are needed for reporting, remote access, etc)? \
-1 physical port with outbound internet access and dns resolution
-5. What Web URLs require whitelisting? \
+1.  **What are the network bandwidth and traffic frequency requirements for the platform?**<br>
+  Average 1 GB  per month. Traffic is fairly continuous.
 
-** other urls may be specified for specific installations **
-6. Please provide an application flow diagram for the solution. \
+2.  **What are the network port requirements (number of required physical network connections)?**<br>
+  1 physical port with outbound internet access and DNS resolution.
 
-7. What are the remote methods of access required for the solution. \
-The system only requires an outbound connection to function limiting to external risk. The connection further uses ChaCha20 for symmetric encryption with Poly1305 for message authentication, a combination that’s more performant than AES on embedded CPU architectures that don’t have cryptographic hardware acceleration; Curve25519 for elliptic-curve Diffie-Hellman (ECDH) key agreement; BLAKE2s for hashing, which is faster than SHA-3; and a 1.5 Round Trip Time (1.5-RTT) handshake that’s based on the Noise framework and provides forward secrecy. It also includes built-in protection against key impersonation, denial-of-service and replay attacks, as well as some post-quantum cryptographic resistance.
-8. Who has access to the system? \
-Only authorized users have access to the system.
-9. What data does the system collect? \
-The system collects time-series data for trending analysis and alarm notifications and histories of equipment performance.
-10. How is access authenticated (SSO, local accounts, etc)? \
-FSG utilizes a secure VPN connection directly to our secured cloud environment.  This connection establishes an outbound only connection, ensuring that no incoming traffic is allowed.  Over this connection, all communication between your onsite equipment and the Chariot© platform takes place.
-11. Who maintains patching of the system and its components? \
-All software patches are managed in the cloud or over secure connection to the local site’s VPN router.
-12. What are the Operation Systems in use by the solution? \
-Answer goes here.
-13. Is the solution cloud based? If so, is it a managed solution or what are the management requirements necessary to facilitate the solution? \
-Yes, it is a managed cloud solution.
-14. Does the solution have any requirements to build, manage, or maintain systems (servers, databases, etc)?  If so, please provide all requirements. \
-No, it is all managed by FSG in it’s secure cloud environment.
-15. What application requirements exist for the solution? \
-Chariot® is compatible with any modern web browser and does not require any software to be downloaded or installed. \
- \
-Verified compatible browsers include: Google Chrome, Mozilla Firefox, Internet Explorer, Safari
+3.  **What are the IP requirements (number of addresses needed, does the solution support static IP)?**<br>
+  System requires 1 static IP address.
+
+4. **Does the solution require wireless connectivity (wifi)?**<br>
+  Depending up on your specific site equipment, you may need to provide wifi if you have selected wireless devices.  Chariot can integrate both hard-wired and wireless systems.
+
+5. **Does the solution require a phone line?**<br>
+  No, the equipment uses an IP connection and relies on internet access.
+
+6. **What are the firewall requirements (what ports are needed for reporting, remote access, etc)?**<br>
+  1 physical port with outbound internet access and DNS resolution.
+
+7. **What Web URLs require whitelisting?**<br>
+  The only* whitelisted domain url needs to be `.fsgchariot.app`<br>
+  _*(other urls may be specified for specific installations)_
+
+8. **What are the remote methods of access required for the solution?**<br>
+  The system only requires an outbound connection to function limiting to external risk. The connection further uses ChaCha20 for symmetric encryption with Poly1305 for message authentication, a combination that’s more performant than AES on embedded CPU architectures that don’t have cryptographic hardware acceleration; Curve25519 for elliptic-curve Diffie-Hellman (ECDH) key agreement; BLAKE2s for hashing, which is faster than SHA-3; and a 1.5 Round Trip Time (1.5-RTT) handshake that’s based on the Noise framework and provides forward secrecy. It also includes built-in protection against key impersonation, denial-of-service and replay attacks, as well as some post-quantum cryptographic resistance.
+
+9. **Who has access to the system?**<br>
+  Only authorized users have access to the system.
+
+10. **What data does the system collect?**<br>
+  The system collects time-series data for trending analysis and alarm notifications and histories of equipment performance.
+
+11. **How is access authenticated (SSO, local accounts, etc)?**<br>
+  FSG utilizes a secure VPN connection directly to our secured cloud environment.  This connection establishes an outbound only connection, ensuring that no incoming traffic is allowed.  Over this connection, all communication between your onsite equipment and the Chariot© platform takes place.
+  
+12. **Who maintains patching of the system and its components?**<br>
+  All software patches are managed in the cloud or over secure connection to the local site’s VPN router.
+
+13. What are the Operation Systems in use by the solution? \
+  Answer goes here.
+14. **Is the solution cloud based? If so, is it a managed solution or what are the management requirements necessary to facilitate the solution?**<br>
+  Yes, it is a managed cloud solution.
+
+15. **Does the solution have any requirements to build, manage, or maintain systems (servers, databases, etc)?  If so, please provide all requirements.**<br>
+  No, it is all managed by FSG in it’s secure cloud environment.
+
+16. **What application requirements exist for the solution?**<br>
+  Chariot® is compatible with any modern web browser and does not require any software to be downloaded or installed.
+
+  _Verified compatible browsers include: Google Chrome, Mozilla Firefox, Internet Explorer, Safari_
 
 
 

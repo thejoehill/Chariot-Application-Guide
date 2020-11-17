@@ -634,9 +634,9 @@ Any time you see the trend icon (            ) you can select it to immediately 
 ##### Trendable Local Weather Data
 
 In the Trends feature of Chariot, you can add local weather data to trends for sites that have latitude/longitude data associated with them.
-
+![Trendable weather](/images/trendable-weather.png)
 With this additional context, you have better insight into the data being reported about the site.
-
+![Weather Trend Chart](/images/weather-trend-chart.png)
 
 ####  Bar Chart
 
@@ -668,28 +668,16 @@ Stopwatch Trends support equipment work hours. Individual equipment may have cus
 
 By selecting the "Work Hours" or "Daily Work Hours" options in the Stopwatch grouping selector, data shown will be limited to the configured work hours for each day in the report.
 
+![Stopwatch](images/stopwatch-3.png)
+
 The "Work Hours" grouping option will show the values for each hour in the configured work hours individually.
 
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
-
+![Stopwatch](images/stopwatch-4.png)
 
 The "Daily Work Hours" grouping option will combine all the data for a day into a single timeframe, giving a different way to digest the stopwatch data.
 
-
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.png "image_tooltip")
-
-
+![Stopwatch](images/stopwatch-5.png)
 The"% of Period" column makes it easier to identify what values are most commonly held during a time period.
-
 
 ## Notifications
 

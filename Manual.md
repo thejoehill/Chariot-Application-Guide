@@ -344,7 +344,7 @@ Selecting any of the clustered points on the map will zoom into that area automa
 
 #### Weather
 
-Next to the site list is the map panel.  The map panel is intended to give a contextual way to navigate to sites quickly and easily by zooming into a location and clicking.  In the top right corner of the map is an icon (         ) that will toggle on/off the map layers.
+Next to the site list is the map panel.  The map panel is intended to give a contextual way to navigate to sites quickly and easily by zooming into a location and clicking.  In the top right corner of the map is an icon <img valign="middle" src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/map.png?raw=true" alt="Map"  width="35"> that will toggle on/off the map layers.
 
 Available map layers are:
 <img align="right" src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/map-layers.png?raw=true" width=30% alt="Map Layers"/>
@@ -421,16 +421,19 @@ This mode sets the HVAC fan to run continuously regardless of the system mode or
 This mode turns the HVAC fan off.  It will not run while this setting is active.
 
 
-
-
 #### Panel Layout
 
-**ZONE / DEVICE VIEW (HVAC)**
+---
 
-**GRID VIEW (HVAC)**
+**Zone / Device View (HVAC)**
+<img valign="middle" src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/zone-device-view.png?raw=true" alt="HVAC Device View">
 
+---
 
+**Grid View (HVAC)**
+<img valign="middle" src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/hvac-grid-view.png?raw=true" alt="HVAC Grid View"/>
 
+---
 
 ### Lighting Control
 

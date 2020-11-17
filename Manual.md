@@ -327,17 +327,16 @@ For more information and training on other features such as trends & notificatio
 ### Dock
 |Icon       |Label       |Description      |
 |-------|-------|------|
-|
-|![Sites](/images/sites.png)|Sites|•  Shows list of all sites. <br>![Online](/images/online.png)= Online&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Offline](/images/offline.png) = Offline<br>• Search by store number, city, state, etc.<br>•  Click the ![Star](/images/star.png) to toggle bookmarks to add a site to favorites list.
-|![Health](/images/health.png)|Health |See which sites are online/offline
-|![Trends](images/trends.png)|Trends | See trends/histories of devices
-|![Notification](/images/notifications.png)|Notifications | Setup notifications for alarm conditions
-|![Mass Edit](/images/massedit.png)|Mass Edit | Make global setpoint changes
-|![Latest Changes](/images/latestchanges.png)|Latest Changes | Log of updates/modifications
-|![Users](/images/users.png)|Users | User management (Admins only)
-|![Profile](/images/profile.png)|Profile | Change name, email, picture or password
-|![Logout](/images/users.png)|Logout | Logout of Chariot®
-|![Map](/images/map.png)|Map | • Interactive map of all sites. <br>• Click or roll the mouse wheel to zoom into locations. Mouse over to see site info, local  weather, online status, and links.<br> • Select Map Layers ![Map Layers](/images/map.png) to toggle clouds, precipitation, pressure, wind, temperature.
+|![Sites](/images/sites.png)|Sites|•  Shows list of all sites. <br>![Online](/images/online.png)= Online&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Offline](/images/offline.png) = Offline<br>• Search by store number, city, state, etc.<br>•  Click the ![Star](/images/star.png) to toggle bookmarks to add a site to favorites list.|
+|![Health](/images/health.png)|Health |See which sites are online/offline|
+|![Trends](images/trends.png)|Trends | See trends/histories of devices|
+|![Notification](/images/notifications.png)|Notifications | Setup notifications for alarm conditions|
+|![Mass Edit](/images/massedit.png)|Mass Edit | Make global setpoint changes|
+|![Latest Changes](/images/latestchanges.png)|Latest Changes | Log of updates/modifications|
+|![Users](/images/users.png)|Users | User management (Admins only)|
+|![Profile](/images/profile.png)|Profile | Change name, email, picture or password|
+|![Logout](/images/users.png)|Logout | Logout of Chariot®|
+|![Map](/images/map.png)|Map | • Interactive map of all sites. <br>• Click or roll the mouse wheel to zoom into locations. Mouse over to see site info, local  weather, online status, and links.<br> • Select Map Layers ![Map Layers](/images/map.png) to toggle clouds, precipitation, pressure, wind, temperature.|
 
 
 ### Site List

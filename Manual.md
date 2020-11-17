@@ -1,7 +1,8 @@
 <center>
 <br><br><br><br><br><br>
-<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/Artboard%206.png?raw=true" alt="Chariot" width=75%/>
-<br><br><br><br><br><br>
+
+![Chariot Logo](/images/Artboard%206.png)<br><br><br><br><br><br>
+
 
 # Application Manual
 
@@ -172,6 +173,8 @@ Verified compatible browsers include:
 ## Accessing Chariot®
 
 Open any web browser on your computer, tablet or smartphone and navigate to the below URL to access your instance of Chariot®.
+
+![Chariot URL](/images/chariot-url.gif)
 
 
 ```

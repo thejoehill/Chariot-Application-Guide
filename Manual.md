@@ -542,7 +542,7 @@ Chariot® has the ability to move and rearrange preset zones in a schedule by cl
 ![Schedule Editor](/images/schedule-editor.gif)
 
 Additionally, hovering over a preset zone will reveal the name of the preset associated with the zone.
-
+![Preset hover](/images/schedule-preset.png)
 
 ### Create Presets
 

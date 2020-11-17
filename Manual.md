@@ -342,18 +342,18 @@ For more information and training on other features such as trends & notificatio
 ### Site List
 
 The site list page provides and easy to filter the list of all portfolio sites and consists of a map and a list of locations.  Select a site from the list, or type any part of the store id, city, state, or address to immediately filter the list in place to quickly find the site you are looking for.
-<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/sitelist.png?raw=true" alt="Site List"/>
+![Site List](/images/sitelist.png)
 
 
 #### Favorites
 
-Click the <img valign="middle" src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/star.png?raw=true" alt="star" width="35">  to toggle bookmarks to add a site to favorites.
-<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/favorites.png?raw=true" alt="Favorites"/>
+Click the ![Star](/images/star.png)to toggle bookmarks to add a site to favorites.
+![Favorites](/images/favorites.png)
 
 #### Filters
 
 Chariot® allows you to apply filters to the site list to show groups of sites that meet the designated criteria.  You can filter this to see only your favorite sites, or sites  in a specific city or state, as well as hide offline sites, or only show offline sites.
-<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/filters.png?raw=true" alt="Filter dropdown"/>
+![Filter dropdown](/images/filters.png)
 
 ### Maps
 
@@ -363,16 +363,15 @@ Chariot® allows you to apply filters to the site list to show groups of sites t
 Selecting any of the clustered points on the map will zoom into that area automatically.
 
 **Mouse over area cluster**
-<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/map-mouse-over-area.png?raw=true" alt="Mouse over"/>
+![Mouse over](/images/map-mouse-over-area.png)
 
 **Click to zoom into area**
-<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/map-area-after-selection.png?raw=true" alt="Area after selection"/>
-
+![Area after selection](/images/map-area-after-selection.png)
 
 
 #### Weather
 
-Next to the site list is the map panel.  The map panel is intended to give a contextual way to navigate to sites quickly and easily by zooming into a location and clicking.  In the top right corner of the map is an icon <img valign="middle" src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/map.png?raw=true" alt="Map"  width="35"> that will toggle on/off the map layers.
+Next to the site list is the map panel.  The map panel is intended to give a contextual way to navigate to sites quickly and easily by zooming into a location and clicking.  In the top right corner of the map is an icon ![Map Layers](/images/map.png)that will toggle on/off the map layers.
 
 **Available map layers are:**<br>
 ![Map Layers - Clouds, Precipitation, Pressure, Wind, Temperature](/images/map-layers.png)
@@ -465,21 +464,17 @@ These devices have read-only capability and cannot be overridden inside the Char
 
 
 #### Zone / Device View (Lighting)
-<img valign="middle" src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/lighting-device-view.png?raw=true" alt="Lighting Device View"/>
-
+![Lighting Device](/images/lighting-device-view.png)
 
 #### Grid View (Lighting)
-<img valign="middle" src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/lighting-grid-view.png?raw=true" alt="Lighting Grid View"/>
+![Lighting Grid](/images/lighting-grid-view.png)
 
 
 ### Cooler/Refrigeration Temps
 
-<img align="right" src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/cooler-temps.png?raw=true" width=50% alt="Temperature Sensors"/>
-
 #### Sensors
 
 These are read-only devices that are reporting environmental information, typically temperature and humidity information.
-
 
 ##### Temperature & Humidity Sensors
 
@@ -487,20 +482,17 @@ See the status of the various pieces of equipment at a glance and easily observe
 
 By default, Temperature points have a display range of 0-100°F and Humidity points have a display range of 0-75%. These are able to be customized on a point-by-point basis per the needs of a particular site/situation.
 
+![Temperature Sensors](/images/cooler-temps.png)
 
 ### Trash Compactors
-<img align="right" src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/trash.png?raw=true" width=50% alt="Trash Compactors"/>
-
-![Trash Compactors](/images/trash.png)
-
 If available, trash compactor status components will report to Chariot. This allows you to quickly see the status of your trash compactors across your portfolio.
 
 To enable this feature, pressure sensors must be installed in order to read the compaction pressure.  You can configure alerts from Chariot® to schedule bin pickups on demand rather than on a schedule saving thousands of dollars a year.
 
+![Trash Compactors](/images/trash.png)
 
 ### “Deep Controls”  (Advanced Controls)
-
-
+![Deep Controls])/images/
     This page is normally only useful if they ask about "more data" for HVAC equipment
 
 
@@ -544,12 +536,8 @@ This view is used if you want to see all devices at once in a grid format.  Very
 
 Chariot® has the ability to move and rearrange preset zones in a schedule by clicking and dragging. While the preset zone is highlighted, click anywhere and drag to move, immediately resolving collisions with other preset zones. To rearrange preset zones, click and drag the bottom handle while highlighted. This will "pop out" the zone until you are done dragging and only resolve conflicts after you are done placing it.
 
+![Schedule Editor](/images/schedule-editor.gif)
 
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.gif "image_tooltip")
 
 
 Additionally, hovering over a preset zone will reveal the name of the preset associated with the zone.

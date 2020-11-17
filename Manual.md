@@ -376,16 +376,8 @@ Selecting any of the clustered points on the map will zoom into that area automa
 
 Next to the site list is the map panel.  The map panel is intended to give a contextual way to navigate to sites quickly and easily by zooming into a location and clicking.  In the top right corner of the map is an icon <img valign="middle" src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/map.png?raw=true" alt="Map"  width="35"> that will toggle on/off the map layers.
 
-Available map layers are:
-
-*   Clouds
-*   Precipitation
-*   Pressure
-*   Wind
-*   Temperature
-
-![Map Layers](/images/map-layers.png)
-
+**Available map layers are:**<br>
+![Map Layers - Clouds, Precipitation, Pressure, Wind, Temperature](/images/map-layers.png)
 
 **Map with temperature layer selected**
 ![Map with temperature layer](/images/map-with-temp.png)

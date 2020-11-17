@@ -172,14 +172,9 @@ Verified compatible browsers include:
 
 ## Accessing Chariot®
 
-Open any web browser on your computer, tablet or smartphone and navigate to the below URL to access your instance of Chariot®.
+Open any web browser on your computer, tablet or smartphone and navigate to your custom URL as shown below to access your instance of Chariot®.
 
 ![Chariot URL](/images/chariot-url.gif)
-
-
-```
-circlek.fsgchariot.app
-```
 
 
 **Credentials**
@@ -225,9 +220,7 @@ Technically speaking, the system only requires an outbound connection to functio
 
 
 ### Application Architecture
-<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/FSG%20Smart%20Buildings%20_%20AR150%20Network%20Architecture.png?raw=true" alt="Application Architecture Drawing"/>
-
-
+![Application Architecture](/images/FSG%20Smart%20Buildings%20_%20AR150%20Network%20Architecture.png)
 
 <br><br><br><br><br>
 
@@ -263,8 +256,10 @@ This manual is a comprehensive guide to all the features within the Chariot® pl
 
 * **Getting Started**<br>
 This section covers system requirements for use with the Chariot® platform as well as Browser Compatibility.
+
 * **User Manual**<br>
 This section is a detailed user guide to all of the Chariot® platform features.  It covers in depth how to use the advanced features such as global setpoints, advanced notifications, trending reports, and user administration.
+
 * **Appendix**<br>
 This section contains a Quick Reference Guide for the Chariot® platform in addition to the glossary and index of the manual.
 
@@ -332,16 +327,17 @@ For more information and training on other features such as trends & notificatio
 ### Dock
 |Icon       |Label       |Description      |
 |-------|-------|------|
-|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/sites.png?raw=true" alt="Sites"  width="35">|Sites|•  Shows list of all sites. <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img valign="middle" src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/online.png?raw=true" alt="Online" width="35">= Online&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img valign="middle" src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/offline.png?raw=true" alt="Offline" width="35"/> = Offline<br>• Search by store number, city, state, etc.<br>•  Click the <img valign="middle" src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/star.png?raw=true" alt="star"  width="35">  to toggle bookmarks to add a site to favorites list.
-|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/health.png?raw=true" alt="Health"  width="35"> |Health |See which sites are online/offline
-|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/trends.png?raw=true" alt="Trends"  width="35"> |Trends | See trends/histories of devices
-|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/notifications.png?raw=true" alt="Notifications"  width="35"> |Notifications | Setup notifications for alarm conditions
-|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/massedit.png?raw=true" alt="Mass Edit"  width="35"> |Mass Edit | Make global setpoint changes
-|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/latestchanges.png?raw=true" alt="Latest Changes"  width="35"> |Latest Changes | Log of updates/modifications
-|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/users.png?raw=true" alt="Users"  width="35"> |Users | User management (Admins only)
-|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/profile.png?raw=true" alt="Profile"  width="35"> |Profile | Change name, email, picture or password
-|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/users.png?raw=true" alt="Logout"  width="35"> |Logout | Logout of Chariot®
-|<img src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/map.png?raw=true" alt="Map"  width="35"> |Map | • Interactive map of all sites. <br>• Click or roll the mouse wheel to zoom into locations. Mouse over to see site info, local  weather, online status, and links.<br> • Select Map Layers <img valign="middle" src="https://github.com/thejoehill/Chariot-Application-Guide/blob/main/images/map.png?raw=true" alt="Map"  width="35">   to toggle clouds, precipitation, pressure, wind, temperature.
+|
+|![Sites](/images/sites.png)|Sites|•  Shows list of all sites. <br>![Online](/images/online.png)= Online&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Offline](/images/offline.png) = Offline<br>• Search by store number, city, state, etc.<br>•  Click the ![Star](/images/star.png) to toggle bookmarks to add a site to favorites list.
+|![Health](/images/health.png)|Health |See which sites are online/offline
+|![Trends](images/trends.png)|Trends | See trends/histories of devices
+|![Notification](/images/notifications.png)|Notifications | Setup notifications for alarm conditions
+|![Mass Edit](/images/massedit.png)|Mass Edit | Make global setpoint changes
+|![Latest Changes](/images/latestchanges.png)|Latest Changes | Log of updates/modifications
+|![Users](/images/users.png)|Users | User management (Admins only)
+|![Profile](/images/profile.png)|Profile | Change name, email, picture or password
+|![Logout](/images/users.png)|Logout | Logout of Chariot®
+|![Map](/images/map.png)|Map | • Interactive map of all sites. <br>• Click or roll the mouse wheel to zoom into locations. Mouse over to see site info, local  weather, online status, and links.<br> • Select Map Layers ![Map Layers](/images/map.png) to toggle clouds, precipitation, pressure, wind, temperature.
 
 
 ### Site List

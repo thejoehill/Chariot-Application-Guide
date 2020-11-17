@@ -116,14 +116,6 @@ Copyright © 2020 Facility Solutions Group, Inc. All Rights Reserved.
     - [Delete User](#delete-user)
     - [Delegate Access](#delegate-access)
 - [Appendix](#appendix)
-  - [Chariot® Quick Reference](#chariot-quick-reference)
-    - [Navigation](#navigation-2)
-      - [Main Page](#main-page)
-      - [Site Controls Page](#site-controls-page)
-      - [Health Page](#health-page)
-      - [Trends](#trends)
-      - [Notifications](#notifications-1)
-      - [Schedules](#schedules-1)
   - [Chariot® Network FAQ](#chariot-network-faq)
   - [Glossary](#glossary)
   - [Index](#index)
@@ -614,23 +606,16 @@ Any time you see the trend icon (            ) you can select it to immediately 
 
 #### Navigation
 
-
-                    [**Line Chart**]	Shows list of all sites.
-
-
-                    [**Bar Chart**]	See which sites are online/offline.
-
-
-                    [**Table / CSV**]	See trends/history of devices.
-
-
-                    [**Heat Map**]	Setup Notifications for alarm conditions.
+|Icon       |Label       |Description      |
+|-------|-------|------|
+|![Line Chart](/images/trends.png)|**Line Chart** |Shows line chart visualization of trend data.|
+|![Bar Chart](/images/bar-chart.png)|**Bar Chart**|See bar chart visualization of trend data.|
+|![Table/CSV](/images/datatable.png)|**Table / CSV**|See trends/history of devices.
+|![Heatmap](/images/heatmap.png)|**Heat Map**|Setup Notifications for alarm conditions.
+|![Stopwatch](/images/stopwatch-icon.png)|**Stop Watch**|	Make global setpoint changes
 
 
-                    [**Stop Watch**]	Make global setpoint changes
-
-
-####  Line Chart
+####  ![Line Chart](/images/trends.png)Line Chart
 
 
 ##### Trendable Local Weather Data
@@ -640,16 +625,16 @@ In the Trends feature of Chariot, you can add local weather data to trends for s
 With this additional context, you have better insight into the data being reported about the site.
 ![Weather Trend Chart](/images/weather-trend-chart.png)
 
-####  Bar Chart
+#### ![Bar Chart](/images/bar-chart.png)Bar Chart
 
 
-####  CSV
+#### ![Table/CSV](/images/datatable.png)CSV
 
 
-#### Heat map
+#### ![Heatmap](/images/heatmap.png)Heat map
 
 
-#### Stopwatch/Pareto
+#### ![Stopwatch](/images/stopwatch-icon.png)Stopwatch/Pareto
 
 
 
@@ -725,155 +710,7 @@ The"% of Period" column makes it easier to identify what values are most commonl
 
 October 2020
 
-
-
-
-## Chariot® Quick Reference
-
-**URL**:`	https://circlek.fsgchariot.app`
-
-**Credentials: **You should have received an invitation to create your Chariot account.
-
-**Problems? **Please contact [smart.support@fsgi.com](mailto:smart.support@fsgi.com) for assistance with login issues.
-
-
-### Navigation
-
-
-#### Main Page
-
-
-                    [**Sites**]	Shows list of all sites. =Online =Offline \
-Search by store number, city, state, etc.   \
-Click the  to toggle bookmarks to add a site to favorites.
-
-
-                    [**Health**]	See which sites are online/offline.
-
-
-                    [**Trends**]	See trends/history of devices.
-
-
-                    [**Notifications**]	Setup Notifications for alarm conditions.
-
-
-                    [**Mass Edit**]	Make global setpoint changes
-
-
-                    [**Latest Changes**]	Log of updates/modifications
-
-
-                    [**Users**]	User management (Admins only)
-
-
-                    [**Profile**]	Change name, email, picture or password.
-
-
-                    [**Logout**]	Logout of Chariot®.
-
-
-                    [**Map**]	Interactive map of all sites. \
-Click or roll the mouse wheel to zoom into locations. \
-Mouse over to see site info, local  weather, online status, and links. \
-Select Map Layers    to toggle clouds, precipitation, pressure, wind, temperature
-
-
-#### Site Controls Page
-
-The site controls page provides quick insight into the current state of the store as well as the ability to make adjustments.
-
-
-##### Views
-
-**Zones _(Default) \
-_**The default view is to group all devices by zones.  Zones are configurable by site through the Zone Editor Menu.
-
-**Devices**
-
-Similar to the Zones view, the Devices view groups all devices by type.  For example, all lighting devices, all RTU’s, all meters, etc.
-
-**Grid**
-
-This view is used if you want to see all devices at once in a grid format.  Very useful for locations with a lot of equipment.
-
-
-##### Lighting Control
-
-
-    Current lighting status is indicated by the named zones. Depending on the specific setup of the store this lighting can be controlled via schedule or photocell.
-
-
-    **Lighting Control Legend**
-
-
-        Non-controllable		= Off	  = On
-
-
-        Controllable		= Off	= On
-
-
-        _Note: It’s possible for the local store staff to fully override the EMS with a mechanical switch on the enclosure. That override may not show in Chariot®._
-
-
-##### HVAC Control
-
-
-    The current space and supply temps are displayed for each HVAC unit. Set points can be adjusted by either clicking the related +/- indicator or by dragging the set point “dot” in the Chariot UI.
-
-HVAC Legend (_Device View_)
-
-
-
-
-#### Health Page
-
-Quickly identify problem sites that are having communication issues. \
-
-
-
-                Offline sites	Red = Site is offline \
-Orange = Devices are offline \
-Green = Site and all devices are online
-
-
-#### Trends
-
-Visualize time series data from sites to determine trends for use in root cause analysis and equipment usage trends.
-
-**Line Chart**
-
-**Bar Chart**
-
-**CSV**
-
-**Stopwatch/Pareto**
-
-**Heat map**
-
-
-#### Notifications
-
-Configure custom notifications for any point meeting any criteria you specify.
-
-Criteria is specified by time conditions or value ranges using any combination of AND || OR conditions.
-
-Once conditions are met, specify who you want to notify and by what method (email or  text)
-
-You can establish priorities to each event so that a specified list of contacts are notified in order, or by any delay you specify.
-
-See User Manual for detailed information on setting up advanced notifications.
-
-
-#### Schedules
-
-The scheduling features of Chariot® are hardware dependent and not available to all sites within a given portfolio
-
-
-
-
 ## Chariot® Network FAQ
-
-
 
 1.  What are the network requirements for the solution, including:
     1. Bandwidth requirements for the proposed solution, including frequency of traffic. \
@@ -889,15 +726,9 @@ No, the equipment uses an IP connection and relies on internet access.
 4. What are the firewall requirements (what ports are needed for reporting, remote access, etc)? \
 1 physical port with outbound internet access and dns resolution
 5. What Web URLs require whitelisting? \
-[https://riteaid.fsgchariot.app/](https://riteaid.fsgchariot.app/) \
+
 ** other urls may be specified for specific installations **
 6. Please provide an application flow diagram for the solution. \
-
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](https://i.ytimg.com/vi/s93yV3b-Q-c/maxresdefault.jpg "image_tooltip")
 
 7. What are the remote methods of access required for the solution. \
 The system only requires an outbound connection to function limiting to external risk. The connection further uses ChaCha20 for symmetric encryption with Poly1305 for message authentication, a combination that’s more performant than AES on embedded CPU architectures that don’t have cryptographic hardware acceleration; Curve25519 for elliptic-curve Diffie-Hellman (ECDH) key agreement; BLAKE2s for hashing, which is faster than SHA-3; and a 1.5 Round Trip Time (1.5-RTT) handshake that’s based on the Noise framework and provides forward secrecy. It also includes built-in protection against key impersonation, denial-of-service and replay attacks, as well as some post-quantum cryptographic resistance.

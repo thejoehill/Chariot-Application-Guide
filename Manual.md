@@ -538,11 +538,11 @@ This view is used if you want to see all devices at once in a grid format.  Very
 ### Schedule Editor
 
 Chariot® has the ability to move and rearrange preset zones in a schedule by clicking and dragging. While the preset zone is highlighted, click anywhere and drag to move, immediately resolving collisions with other preset zones. To rearrange preset zones, click and drag the bottom handle while highlighted. This will "pop out" the zone until you are done dragging and only resolve conflicts after you are done placing it.
-
 ![Schedule Editor](/images/schedule-editor.gif)
 
 Additionally, hovering over a preset zone will reveal the name of the preset associated with the zone.
 ![Preset hover](/images/schedule-preset.png)
+
 
 ### Create Presets
 

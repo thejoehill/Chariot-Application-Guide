@@ -1,7 +1,7 @@
 <center>
 <br><br><br><br><br><br>
 
-![Chariot Logo](/images/Artboard%206.png)<br><br><br><br><br><br>
+![Chariot Logo](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/Artboard%206.png)<br><br><br><br><br><br>
 
 
 # Application Manual
@@ -168,7 +168,7 @@ Open any web browser on your computer, tablet or smartphone and navigate to your
 
 _Example) `chotchkies.fsgchariot.app` or `acme.fsgchariot.app` or `demo.fsgchariot.app`_
 
-![Chariot URL](/images/chariot-url.gif)
+![Chariot URL](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/chariot-url.gif)
 
 
 
@@ -215,7 +215,7 @@ Technically speaking, the system only requires an outbound connection to functio
 
 
 ### Application Architecture
-![Application Architecture](/images/FSG%20Smart%20Buildings%20_%20AR150%20Network%20Architecture.png)
+![Application Architecture](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/FSG%20Smart%20Buildings%20_%20AR150%20Network%20Architecture.png)
 
 <br><br><br><br><br>
 
@@ -293,8 +293,13 @@ Copyright © 2020 Facility Solutions Group, Inc. All Rights Reserved.
 
 **Address**<br>
 FSG Smart Buildings<br>
+<<<<<<< Updated upstream
 101 E. Old Settlers Blvd. Ste. 200<br>
 Round Rock, Texas 78664<br>
+=======
+2590 Oakmont Dr., Ste. 214<br>
+Round Rock, Texas 78665<br>
+>>>>>>> Stashed changes
 
 **Website**<br>
 [https://fsgsmartbuildings.com](https://fsgsmartbuildings.com)
@@ -322,33 +327,33 @@ For more information and training on other features such as trends & notificatio
 ### Dock
 |Icon       |Label       |Description      |
 |-------|-------|------|
-|![Sites](/images/sites.png)|Sites|•  Shows list of all sites. <br>![Online](/images/online.png)= Online&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Offline](/images/offline.png) = Offline<br>• Search by store number, city, state, etc.<br>•  Click the ![Star](/images/star.png) to toggle bookmarks to add a site to favorites list.|
-|![Health](/images/health.png)|Health |See which sites are online/offline|
+|![Sites](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/sites.png)|Sites|•  Shows list of all sites. <br>![Online](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/online.png)= Online&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Offline](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/offline.png) = Offline<br>• Search by store number, city, state, etc.<br>•  Click the ![Star](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/star.png) to toggle bookmarks to add a site to favorites list.|
+|![Health](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/health.png)|Health |See which sites are online/offline|
 |![Trends](images/trends.png)|Trends | See trends/histories of devices|
-|![Notification](/images/notifications.png)|Notifications | Setup notifications for alarm conditions|
-|![Mass Edit](/images/massedit.png)|Mass Edit | Make global setpoint changes|
-|![Latest Changes](/images/latestchanges.png)|Latest Changes | Log of updates/modifications|
-|![Users](/images/users.png)|Users | User management (Admins only)|
-|![Profile](/images/profile.png)|Profile | Change name, email, picture or password|
-|![Logout](/images/users.png)|Logout | Logout of Chariot®|
-|![Map](/images/map.png)|Map | • Interactive map of all sites. <br>• Click or roll the mouse wheel to zoom into locations. Mouse over to see site info, local  weather, online status, and links.<br> • Select Map Layers ![Map Layers](/images/map.png) to toggle clouds, precipitation, pressure, wind, temperature.|
+|![Notification](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/notifications.png)|Notifications | Setup notifications for alarm conditions|
+|![Mass Edit](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/massedit.png)|Mass Edit | Make global setpoint changes|
+|![Latest Changes](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/latestchanges.png)|Latest Changes | Log of updates/modifications|
+|![Users](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/users.png)|Users | User management (Admins only)|
+|![Profile](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/profile.png)|Profile | Change name, email, picture or password|
+|![Logout](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/users.png)|Logout | Logout of Chariot®|
+|![Map](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/map.png)|Map | • Interactive map of all sites. <br>• Click or roll the mouse wheel to zoom into locations. Mouse over to see site info, local  weather, online status, and links.<br> • Select Map Layers ![Map Layers](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/map.png) to toggle clouds, precipitation, pressure, wind, temperature.|
 
 
 ### Site List
 
 The site list page provides and easy to filter the list of all portfolio sites and consists of a map and a list of locations.  Select a site from the list, or type any part of the store id, city, state, or address to immediately filter the list in place to quickly find the site you are looking for.
-![Site List](/images/sitelist.png)
+![Site List](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/sitelist.png)
 
 
 #### Favorites
 
-Click the ![Star](/images/star.png)to toggle bookmarks to add a site to favorites.
-![Favorites](/images/favorites.png)
+Click the ![Star](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/star.png)to toggle bookmarks to add a site to favorites.
+![Favorites](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/favorites.png)
 
 #### Filters
 
 Chariot® allows you to apply filters to the site list to show groups of sites that meet the designated criteria.  You can filter this to see only your favorite sites, or sites  in a specific city or state, as well as hide offline sites, or only show offline sites.
-![Filter dropdown](/images/filters.png)
+![Filter dropdown](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/filters.png)
 
 ### Maps
 
@@ -358,35 +363,35 @@ Chariot® allows you to apply filters to the site list to show groups of sites t
 Selecting any of the clustered points on the map will zoom into that area automatically.
 
 **Mouse over area cluster**
-![Mouse over](/images/map-mouse-over-area.png)
+![Mouse over](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/map-mouse-over-area.png)
 
 **Click to zoom into area**
-![Area after selection](/images/map-area-after-selection.png)
+![Area after selection](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/map-area-after-selection.png)
 
 
 #### Weather
 
-Next to the site list is the map panel.  The map panel is intended to give a contextual way to navigate to sites quickly and easily by zooming into a location and clicking.  In the top right corner of the map is an icon ![Map Layers](/images/map.png)that will toggle on/off the map layers.
+Next to the site list is the map panel.  The map panel is intended to give a contextual way to navigate to sites quickly and easily by zooming into a location and clicking.  In the top right corner of the map is an icon ![Map Layers](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/map.png)that will toggle on/off the map layers.
 
 **Available map layers are:**<br>
-![Map Layers - Clouds, Precipitation, Pressure, Wind, Temperature](/images/map-layers.png)
+![Map Layers - Clouds, Precipitation, Pressure, Wind, Temperature](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/map-layers.png)
 
 **Map with temperature layer selected**
-![Map with temperature layer](/images/map-with-temp.png)
+![Map with temperature layer](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/map-with-temp.png)
 
 **Map with precipitation layer selected**
-![Map with precipitation layer](/images/map-with-prec.png)
+![Map with precipitation layer](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/map-with-prec.png)
 
 
 ### Simple Site View
 
 The Chariot platform has the ability to default to a simpler site view if enabled. This streamlined view focuses on the on-site IoT devices and simplifies the experience of managing your sites.<br>
 
-![Simple Site View](/images/simple-site-view.png)
+![Simple Site View](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/simple-site-view.png)
 
 Users that have Simple Site View available to them will have a new user setting available to enable it.<br>
 
-![Simple Site View enable](/images/simple-site-view-enable.gif)
+![Simple Site View enable](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/simple-site-view-enable.gif)
 
 If you would like to have Simple Site View enabled, please email FSG Smart Buildings Support.
 
@@ -437,10 +442,10 @@ This mode turns the HVAC fan off.  It will not run while this setting is active.
 
 
 #### Zone / Device View (HVAC)
-![HVAC Device View](/images/zone-device-view.png)
+![HVAC Device View](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/zone-device-view.png)
 
 #### Grid View (HVAC)
-![HVAC Grid View](/images/hvac-grid-view.png)
+![HVAC Grid View](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/hvac-grid-view.png)
 
 ### Lighting Control
 
@@ -459,10 +464,10 @@ These devices have read-only capability and cannot be overridden inside the Char
 
 
 #### Zone / Device View (Lighting)
-![Lighting Device](/images/lighting-device-view.png)
+![Lighting Device](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/lighting-device-view.png)
 
 #### Grid View (Lighting)
-![Lighting Grid](/images/lighting-grid-view.png)
+![Lighting Grid](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/lighting-grid-view.png)
 
 
 ### Cooler/Refrigeration Temps
@@ -477,17 +482,17 @@ See the status of the various pieces of equipment at a glance and easily observe
 
 By default, Temperature points have a display range of 0-100°F and Humidity points have a display range of 0-75%. These are able to be customized on a point-by-point basis per the needs of a particular site/situation.
 
-![Temperature Sensors](/images/cooler-temps.png)
+![Temperature Sensors](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/cooler-temps.png)
 
 ### Trash Compactors
 If available, trash compactor status components will report to Chariot. This allows you to quickly see the status of your trash compactors across your portfolio.
 
 To enable this feature, pressure sensors must be installed in order to read the compaction pressure.  You can configure alerts from Chariot® to schedule bin pickups on demand rather than on a schedule saving thousands of dollars a year.
 
-![Trash Compactors](/images/trash.png)
+![Trash Compactors](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/trash.png)
 
 ### “Deep Controls”  (Advanced Controls)
-![Deep Controls])/images/
+![Deep Controls])https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/
     This page is normally only useful if they ask about "more data" for HVAC equipment
 
 
@@ -500,10 +505,17 @@ To enable this feature, pressure sensors must be installed in order to read the 
     Grouped by configured "zones"
 
 
+<<<<<<< Updated upstream
 <p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image2.png "image_tooltip")
+=======
+<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images//image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/image2.png "image_tooltip")
+>>>>>>> Stashed changes
 Devices
 
 
@@ -531,11 +543,11 @@ This view is used if you want to see all devices at once in a grid format.  Very
 
 Chariot® has the ability to move and rearrange preset zones in a schedule by clicking and dragging. While the preset zone is highlighted, click anywhere and drag to move, immediately resolving collisions with other preset zones. To rearrange preset zones, click and drag the bottom handle while highlighted. This will "pop out" the zone until you are done dragging and only resolve conflicts after you are done placing it.
 
-![Schedule Editor](/images/schedule-editor.gif)
+![Schedule Editor](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/schedule-editor.gif)
 
 Additionally, hovering over a preset zone will reveal the name of the preset associated with the zone.
 
-![Preset hover](/images/schedule-preset.png)
+![Preset hover](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/schedule-preset.png)
 
 
 ### Create Presets
@@ -598,7 +610,7 @@ Basic 24 hour snapshot of meter metrics
 
 ### Overview
 
-Any time you see the trend icon ![Trends](/images/trends.png "Trends icon") you can select it to immediately jump to the Reporting and Trends section of Chariot®.  Once there, you can select the start / end dates and time zone you want to use.
+Any time you see the trend icon ![Trends](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/trends.png "Trends icon") you can select it to immediately jump to the Reporting and Trends section of Chariot®.  Once there, you can select the start / end dates and time zone you want to use.
 
 
 ### Reporting and Trends
@@ -608,11 +620,11 @@ Any time you see the trend icon ![Trends](/images/trends.png "Trends icon") you 
 
 |Icon       |Label       |Description      |
 |-------|-------|------|
-|![Line Chart](/images/trends.png)|**Line Chart** |Shows line chart visualization of trend data.|
-|![Bar Chart](/images/bar-chart.png)|**Bar Chart**|See bar chart visualization of trend data.|
-|![Table/CSV](/images/datatable.png)|**Table / CSV**|See trends/history of devices.
-|![Heatmap](/images/heatmap.png)|**Heat Map**|Setup Notifications for alarm conditions.
-|![Stopwatch](/images/stopwatch-icon.png)|**Stop Watch**|	Make global setpoint changes
+|![Line Chart](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/trends.png)|**Line Chart** |Shows line chart visualization of trend data.|
+|![Bar Chart](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/bar-chart.png)|**Bar Chart**|See bar chart visualization of trend data.|
+|![Table/CSV](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/datatable.png)|**Table / CSV**|See trends/history of devices.
+|![Heatmap](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/heatmap.png)|**Heat Map**|Setup Notifications for alarm conditions.
+|![Stopwatch](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/stopwatch-icon.png)|**Stop Watch**|	Make global setpoint changes
 
 
 ####  Line Chart
@@ -622,11 +634,11 @@ Any time you see the trend icon ![Trends](/images/trends.png "Trends icon") you 
 
 In the Trends feature of Chariot, you can add local weather data to trends for sites that have latitude/longitude data associated with them.
 
-![Trendable weather](/images/trendable-weather.png)
+![Trendable weather](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/trendable-weather.png)
 
 With this additional context, you have better insight into the data being reported about the site.
 
-![Weather Trend Chart](/images/weather-trend-chart.png)
+![Weather Trend Chart](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/weather-trend-chart.png)
 
 #### Bar Chart
 
@@ -647,10 +659,10 @@ Chariot® features time frame grouping in the Stopwatch Trends section. This all
 
 For example, this report from 10/14 - 10/21 can be viewed with the total period:
 
-![Time Frame Grouping](/images/stopwatch-1.png)
+![Time Frame Grouping](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/stopwatch-1.png)
 
 Or the same report can be viewed grouped by a smaller time period, for example, grouped by day:
-![Time Frame Grouping - Smaller Period](/images/stopwatch-2.png)
+![Time Frame Grouping - Smaller Period](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/stopwatch-2.png)
 
 CSV exports include all points on the report, as well as the time ranges for each of the stopwatch values.
 
@@ -661,6 +673,7 @@ Stopwatch Trends support equipment work hours. Individual equipment may have cus
 
 By selecting the "Work Hours" or "Daily Work Hours" options in the Stopwatch grouping selector, data shown will be limited to the configured work hours for each day in the report.
 
+<<<<<<< Updated upstream
 ![Stopwatch](images/stopwatch-3.png)
 
 The "Work Hours" grouping option will show the values for each hour in the configured work hours individually.
@@ -670,6 +683,17 @@ The "Work Hours" grouping option will show the values for each hour in the confi
 The "Daily Work Hours" grouping option will combine all the data for a day into a single timeframe, giving a different way to digest the stopwatch data.
 
 ![Stopwatch](images/stopwatch-5.png)
+=======
+![Stopwatch](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/stopwatch-3.png)
+
+The "Work Hours" grouping option will show the values for each hour in the configured work hours individually.
+
+![Stopwatch](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/stopwatch-4.png)
+
+The "Daily Work Hours" grouping option will combine all the data for a day into a single timeframe, giving a different way to digest the stopwatch data.
+
+![Stopwatch](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/stopwatch-5.png)
+>>>>>>> Stashed changes
 
 The"% of Period" column makes it easier to identify what values are most commonly held during a time period.
 

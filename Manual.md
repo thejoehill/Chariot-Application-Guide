@@ -293,13 +293,8 @@ Copyright © 2020 Facility Solutions Group, Inc. All Rights Reserved.
 
 **Address**<br>
 FSG Smart Buildings<br>
-<<<<<<< Updated upstream
-101 E. Old Settlers Blvd. Ste. 200<br>
-Round Rock, Texas 78664<br>
-=======
 2590 Oakmont Dr., Ste. 214<br>
 Round Rock, Texas 78665<br>
->>>>>>> Stashed changes
 
 **Website**<br>
 [https://fsgsmartbuildings.com](https://fsgsmartbuildings.com)
@@ -329,7 +324,7 @@ For more information and training on other features such as trends & notificatio
 |-------|-------|------|
 |![Sites](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/sites.png)|Sites|•  Shows list of all sites. <br>![Online](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/online.png)= Online&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Offline](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/offline.png) = Offline<br>• Search by store number, city, state, etc.<br>•  Click the ![Star](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/star.png) to toggle bookmarks to add a site to favorites list.|
 |![Health](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/health.png)|Health |See which sites are online/offline|
-|![Trends](images/trends.png)|Trends | See trends/histories of devices|
+|![Trends](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/trends.png)|Trends | See trends/histories of devices|
 |![Notification](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/notifications.png)|Notifications | Setup notifications for alarm conditions|
 |![Mass Edit](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/massedit.png)|Mass Edit | Make global setpoint changes|
 |![Latest Changes](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/latestchanges.png)|Latest Changes | Log of updates/modifications|
@@ -492,34 +487,23 @@ To enable this feature, pressure sensors must be installed in order to read the 
 ![Trash Compactors](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/trash.png)
 
 ### “Deep Controls”  (Advanced Controls)
-![Deep Controls])https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/
+![Deep Controls](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/
     This page is normally only useful if they ask about "more data" for HVAC equipment
 
 
 ### 3 "Views" of Site Controls Page
-
+![3 Views](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/3views.png)
 
 #### Zones
 
-
-    Grouped by configured "zones"
-
-
-<<<<<<< Updated upstream
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+Grouped by configured "zones"
 
 
-![alt_text](images/image2.png "image_tooltip")
-=======
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images//image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+#### Devices
 
 
-![alt_text](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/image2.png "image_tooltip")
->>>>>>> Stashed changes
-Devices
-
-
-    Grouped by device type
+Grouped by device type
 
 
 #### Grid View
@@ -530,7 +514,7 @@ This view is used if you want to see all devices at once in a grid format.  Very
 #### Table format
 
 
-    showing most data at once
+Showing most data at once
 
 
 ## Schedules
@@ -673,7 +657,6 @@ Stopwatch Trends support equipment work hours. Individual equipment may have cus
 
 By selecting the "Work Hours" or "Daily Work Hours" options in the Stopwatch grouping selector, data shown will be limited to the configured work hours for each day in the report.
 
-<<<<<<< Updated upstream
 ![Stopwatch](images/stopwatch-3.png)
 
 The "Work Hours" grouping option will show the values for each hour in the configured work hours individually.
@@ -683,17 +666,6 @@ The "Work Hours" grouping option will show the values for each hour in the confi
 The "Daily Work Hours" grouping option will combine all the data for a day into a single timeframe, giving a different way to digest the stopwatch data.
 
 ![Stopwatch](images/stopwatch-5.png)
-=======
-![Stopwatch](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/stopwatch-3.png)
-
-The "Work Hours" grouping option will show the values for each hour in the configured work hours individually.
-
-![Stopwatch](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/stopwatch-4.png)
-
-The "Daily Work Hours" grouping option will combine all the data for a day into a single timeframe, giving a different way to digest the stopwatch data.
-
-![Stopwatch](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/stopwatch-5.png)
->>>>>>> Stashed changes
 
 The"% of Period" column makes it easier to identify what values are most commonly held during a time period.
 

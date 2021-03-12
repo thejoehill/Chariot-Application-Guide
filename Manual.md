@@ -487,7 +487,7 @@ To enable this feature, pressure sensors must be installed in order to read the 
 ![Trash Compactors](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/trash.png)
 
 ### “Deep Controls”  (Advanced Controls)
-![Deep Controls](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/
+![Deep Controls](https://raw.githubusercontent.com/thejoehill/Chariot-Application-Guide/main/images/deepcontrols.gif)
     This page is normally only useful if they ask about "more data" for HVAC equipment
 
 
